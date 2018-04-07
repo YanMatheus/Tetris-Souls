@@ -1,2 +1,2 @@
 
-![sarxos](https://raw.github.com/sarxos/webcam-capture/master/webcam-capture/src/etc/resources/sarxos.png "sarxos")
+![bkgnd](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/tetrisland.PNG "bkgnd")
