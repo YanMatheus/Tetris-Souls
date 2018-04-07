@@ -6,12 +6,28 @@ Jogo feito com js, html e css com objetivo de aprendizado, a jogabilidade é dif
 ![css](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/002-javascript.png "js")
 
 #### Próxima Peça / Preview ####
+É uma tabelinha que mostra qual será a próxima peça a cair
 ```html
  <div id="proxima-peca"></div>
 ```
 
 ![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/proxima-peca.PNG "css")
 
-### SAMPLE ###
-![bkgnd](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/tetrisland.PNG "bkgnd")
+#### Tabuleiro ####
+É a tabela onde o jogo é jogado, onde as peças caem, onde tem bug.
+```html
+ <div id="tabuleiro"></div>
+```
+
+![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/tabuleiro.PNG "css")
+
+####  Informações ####
+É onde ficam as informações do jogo, sendo XP a quantidade de pontos que a pessoa tem, e cada level representa quantas camadas foram destruídas pelo jogador.
+```html
+ <div id="informacoes"></div>
+```
+
+![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/informacoes.PNG "css")
+
+### DEMO ###
 ![bkgnd](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/gifoso.gif "bkgnd")
