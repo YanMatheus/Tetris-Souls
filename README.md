@@ -5,6 +5,8 @@ Jogo feito com js, html e css com objetivo de aprendizado, a jogabilidade é dif
 ![css](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/001-interface.png "css") ![html](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/003-html.png "html")
 ![css](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/002-javascript.png "js")
 
+Ele só começa pela esquerda só para aumentar a dificuldade.
+![bkgnd](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/ohno.gif "bkgnd")
 #### Próxima Peça / Preview ####
 É uma tabelinha que mostra qual será a próxima peça a cair
 ```html
